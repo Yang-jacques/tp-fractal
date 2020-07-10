@@ -19,3 +19,12 @@
   fill: var(--colorPrimary);
   opacity: 1;
 }
+.appleLogo{
+ width: 16px; 
+ height: 16px; 
+ display: block; 
+ fill: currentcolor; 
+ flex-shrink: 0; 
+ backface-visibility: hidden; 
+ margin-right: 6px;
+}

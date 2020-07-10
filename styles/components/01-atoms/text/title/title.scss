@@ -3,19 +3,42 @@
   font-family: var(--fontFamilyTitle);
 }
 
-.a-title--level1 {
+.a-notionTitle{
+  font-family: var(--fontFamilyMain);
   font-size: var(--fontSizeXXL);
   text-transform: uppercase;
+  
 }
 
 .a-title--level2 {
+  font-family: var(--fontFamilyMain);
   font-size: var(--fontSizeXL);
 }
 
 .a-title--level3 {
+  font-family: var(--fontFamilyMain);
   font-size: var(--fontSizeL);
 }
 
 .a-title--reversed {
+  font-family: var(--fontFamilyMain);
   color: var(--colorTextReversed);
+}
+
+.a-title--level6{
+  font-family: var(--fontFamilyMain);
+  color: #37352F;
+  font-size: 15px;
+}
+
+.a-title--level4{
+  font-family: var(--fontFamilyMain);
+  color: #111111;
+  font-size: 22px;
+}
+
+.a-title--level5{
+  font-family: var(--fontFamilyMain);
+  font-size: 30px;
+  color: #111111;
 }

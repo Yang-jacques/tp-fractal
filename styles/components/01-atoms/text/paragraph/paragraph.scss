@@ -16,4 +16,48 @@
   em {
     font-style: italic;
   }
+
+
+
+
+}
+.a-comment-author{
+  font-family: var(--fontFamilyMain);
+  color: #040404;
+}
+
+.a-comment-description{
+  font-family: var(--fontFamilyMain);
+  color: rgba(0,0,0,0.6);
+  line-height:150%;
+  max-width:550px;
+  margin:0px
+}
+
+.a-button-text{
+  font-family: var(--fontFamilyMain);
+  color:#FFFFFF;
+}
+
+.a-description-levle2{
+  font-family: var(--fontFamilyMain);
+  color: rgba 0,0,0,0.6;
+  font-size: 17px;
+}
+
+.a-replace{
+  font-family: var(--fontFamilyMain);
+  color: (rgba 0,0,0,0.4);
+  font-size: 15px;
+}
+
+.a-level7{
+  font-family: var(--fontFamilyMain);
+  color: (rgba 0,0,0,0,6);
+  font-size:16px;
+}
+.a-level8{
+  font-family: var(--fontFamilyMain);
+  color: (rgba 0,0,0,0,6);
+  font-size: 8px;
 }
