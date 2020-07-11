@@ -1,0 +1,12 @@
+.m-section {
+    max-width: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  
+    & > * {
+        display: flex;
+      margin-right: var(--spaceM);
+    }
+  }
+  

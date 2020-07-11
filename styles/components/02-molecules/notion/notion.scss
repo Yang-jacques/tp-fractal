@@ -1,0 +1,9 @@
+.m-notion {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+    &>*+* {
+        margin-top: var(--spaceM);
+    }
+}

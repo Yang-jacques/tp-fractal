@@ -6,8 +6,9 @@
   border-radius: 50%;
 }
 
-.a-notionLogo{
+.a-image--logo{
   max-width: 100%;
+  width: 100px;
 }
 .a-menu{
   max-width: 22px;
@@ -33,4 +34,15 @@
 }
 .a-image--apple{
   max-width: 100%;
+}
+
+.a-image--burger{
+  max-width: 100%;
+  height: 50px;
+  margin-left: 100px;
+}
+
+a-image--button{
+  max-width: 100vh;
+  height: 36px;
 }
